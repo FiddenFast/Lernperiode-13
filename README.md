@@ -76,7 +76,7 @@ Ich habe mich konkret auf bevorstehende Gespräche vorbereitet und technische Th
 
 20.03.26
 
-- [] Bewerbungsgespräche planen/vorbereiten 
-- [] Üben
-- [] Weitere Bewerbungen gezielt planen  
+- [ ] Bewerbungsgespräche planen/vorbereiten 
+- [ ] Üben
+- [ ] Weitere Bewerbungen gezielt planen  
 
